@@ -1,13 +1,6 @@
-# Intro to NLP - Assignment 2
+# Grammar Checker for English Language
 
-In this assignment, our aim is using Context-Free Grammars (CFG) and constituency parsing to build a grammar checker for the English Language. We then evaluate the performance of our grammar checker on the dataset of sentences written by English learners with grammatical mistakes. We analyze the errors made by the grammar checker and report our findings.
-
-
-## Team
-|Student name| CCID |
-|------------|------|
-|Chirag Daryani   |  cdaryani    |
-|Varshini Prakash   |  vprakash    |
+In this project, our aim is using Context-Free Grammars (CFG) and constituency parsing to build a grammar checker for the English Language. We then evaluate the performance of our grammar checker on the dataset of sentences written by English learners with grammatical mistakes. We analyze the errors made by the grammar checker and report our findings.
 
 ## How to Execute?
 
@@ -18,7 +11,7 @@ To run this project,
 3. Open Terminal in the directory you extracted the project folder to. 
 4. Change directory to the project folder using:
 
-    `cd f2021-asn2-chiragdaryani-main`
+    `cd grammar_checker-main`
 5. Install the required libraries, **NLTK** and **Pandas** using the following commands:
 
     `pip3 install nltk`
