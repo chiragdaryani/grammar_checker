@@ -26,7 +26,7 @@ To run this project,
 
 Our program **src/main.py** that takes three positional command-line arguments in this order: the first is a path to the input data file, the second is a path to the grammar file, and the third is a path to the output TSV file.
 
-For our assignment, the input dataset **train.tsv** which is a collection of english sentences is stored in the directory [data/train.tsv](data/train.tsv).
+The input dataset **train.tsv** which is a collection of english sentences is stored in the directory [data/train.tsv](data/train.tsv).
 The grammar file **toy.cfg** we have created is stored in the grammars folder [grammars/toy.cfg](grammars/toy.cfg)
 The final output is written in a file **train.tsv** inside the output folder [output/train.tsv](output/train.tsv)
 
